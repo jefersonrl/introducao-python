@@ -34,9 +34,15 @@ print (2**(3+6))
 #Resto da divisão entre 7 e 2
 print (7 % 2)
 
-#
+#Vetor de String
 palavra = "termodinamica"
 print (palavra[2])
 
+#Vetor posição 9 a 12
+print (palavra[9:12])
+
+#Imprimindo valor de uma variável
+valor = 10;
+print ("O valor é %f" %valor)
 
 ### Fim do Programa ############################
