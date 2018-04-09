@@ -20,4 +20,9 @@ print (variavel)
 # Concatenação de variáveis
 print ("Eu" +  " estou" + " testando")
 
+# Manipulando variáveis
+a = 1
+b = 1
+print (a == b)
+
 ### Fim do Programa ############################
