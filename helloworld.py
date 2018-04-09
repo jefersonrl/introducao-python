@@ -22,7 +22,21 @@ print ("Eu" +  " estou" + " testando")
 
 # Manipulando variáveis
 a = 1
-b = 1
+b = 2
 print (a == b)
+
+#Dois ao cubo
+print (2**3)
+
+#Dois elevado a nove
+print (2**(3+6))
+
+#Resto da divisão entre 7 e 2
+print (7 % 2)
+
+#
+palavra = "termodinamica"
+print (palavra[2])
+
 
 ### Fim do Programa ############################
