@@ -45,4 +45,20 @@ print (palavra[9:12])
 valor = 10;
 print ("O valor é %f" %valor)
 
+#Laços de repetição
+var = 1
+while b < 5:
+	print (b)
+	b = b + 1
+	
+##Condicional
+x = "teste"
+if x == "teste":
+	print ("O valor digitado foi teste")
+elif x == "teste2":
+	print ("O valor digitado foi teste2")
+else:
+	print ("Foi digitado outra coisa")
+
+
 ### Fim do Programa ############################
